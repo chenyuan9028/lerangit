@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-Create a new branch "branch_1"
+Creating a new branch is quick and simple
